@@ -7,6 +7,8 @@ module.exports = {
     home: true,
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'Projects', link: '/projects/' },
+      { text: 'Intro', link: '/intro/' },
       {
         text: 'Connect',
         items: [
@@ -23,6 +25,8 @@ module.exports = {
         ]
       }
     ],
-    sidebar: ['/', '/projects/', ['/intro/', 'Work Experience']]
+    sidebar: ['/', '/projects/', ['/intro/', 'Work Experience']],
+    sidebarDepth: 2,
+    search: false
   }
 }
