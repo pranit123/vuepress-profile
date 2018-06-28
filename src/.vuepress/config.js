@@ -27,6 +27,6 @@ module.exports = {
     ],
     sidebar: ['/', '/projects/', ['/intro/', 'Work Experience']],
     sidebarDepth: 2,
-    search: false
+    search: true
   }
 }
