@@ -9,6 +9,6 @@
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src",
-    "test": ""
+    "test": "yarn --version"
   }
 }
