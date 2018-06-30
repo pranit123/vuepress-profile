@@ -4,7 +4,7 @@
     "lang": "en-US",
     home: true,
     actionText: "More about me",
-    actionLink: "/projects/",
+    actionLink: "/intro/",
     features: [
         {
             title: "Developer",
